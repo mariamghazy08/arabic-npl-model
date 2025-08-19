@@ -1,5 +1,10 @@
 # Mu'arrib: Arabic NLP Model
 
+### Verb
+<img src="/verb.png" />
+
+### Noun
+<img src="/noun.png" />
 Most intelligent systems lack the ability to accurately classify
 Arabic sentences according to their grammatical type, especially
 given the wide variety in sentence structure and grammatical
@@ -19,3 +24,6 @@ interactive and simpleway.
 Achieving high classification accuracy to provide a reliable model that
 can be used in educational environments, whether inside the
 classroom orin smart educational applications..
+
+### [Google Colab Prediction](https://colab.research.google.com/drive/1PWPP_s5lPoiskM6e6WnLhsBSeOe6ULit?usp=sharing)
+### [Google Colab Model](https://colab.research.google.com/drive/1G8QJl9bfXJUZn42bsTL5aBRtrNxZHffo?usp=sharing)
